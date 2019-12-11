@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\pro8\Pro8\Pro8\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Asus\source\repos\pro8\Pro8\Pro8\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Asus\source\repos\pro8\Pro8\Pro8\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Asus\source\repos\pro8\Pro8\Pro8\bin\Debug\netcoreapp2.2\Pro8.deps.json
+C:\Users\Asus\source\repos\pro8\Pro8\Pro8\bin\Debug\netcoreapp2.2\Pro8.runtimeconfig.json
+C:\Users\Asus\source\repos\pro8\Pro8\Pro8\bin\Debug\netcoreapp2.2\Pro8.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\pro8\Pro8\Pro8\bin\Debug\netcoreapp2.2\Pro8.dll
+C:\Users\Asus\source\repos\pro8\Pro8\Pro8\obj\Debug\netcoreapp2.2\Pro8.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\pro8\Pro8\Pro8\obj\Debug\netcoreapp2.2\Pro8.RazorAssemblyInfo.cache
+C:\Users\Asus\source\repos\pro8\Pro8\Pro8\obj\Debug\netcoreapp2.2\Pro8.RazorAssemblyInfo.cs
+C:\Users\Asus\source\repos\pro8\Pro8\Pro8\obj\Debug\netcoreapp2.2\Pro8.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\pro8\Pro8\Pro8\obj\Debug\netcoreapp2.2\Pro8.AssemblyInfo.cs
+C:\Users\Asus\source\repos\pro8\Pro8\Pro8\obj\Debug\netcoreapp2.2\Pro8.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\source\repos\pro8\Pro8\Pro8\bin\Debug\netcoreapp2.2\Pro8.pdb
+C:\Users\Asus\source\repos\pro8\Pro8\Pro8\obj\Debug\netcoreapp2.2\Pro8.dll
+C:\Users\Asus\source\repos\pro8\Pro8\Pro8\obj\Debug\netcoreapp2.2\Pro8.pdb
