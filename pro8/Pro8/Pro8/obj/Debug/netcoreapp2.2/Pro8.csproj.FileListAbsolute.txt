@@ -14,3 +14,4 @@ C:\Users\Asus\source\repos\pro8\Pro8\Pro8\obj\Debug\netcoreapp2.2\Pro8.RazorTarg
 C:\Users\Asus\source\repos\pro8\Pro8\Pro8\bin\Debug\netcoreapp2.2\Pro8.pdb
 C:\Users\Asus\source\repos\pro8\Pro8\Pro8\obj\Debug\netcoreapp2.2\Pro8.dll
 C:\Users\Asus\source\repos\pro8\Pro8\Pro8\obj\Debug\netcoreapp2.2\Pro8.pdb
+C:\Users\Asus\source\repos\pro8\Pro8\Pro8\bin\Debug\netcoreapp2.2\Pro8.xml

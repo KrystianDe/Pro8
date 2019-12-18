@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Pro8</name>
+    </assembly>
+    <members>
+        <member name="M:Pro8.Controllers.KlienciController.GetKlienci">
+            <summary>
+            Metoda zwraca na temat klientow pizzeri
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -13,11 +13,16 @@ namespace Pro8.Controllers
     [ApiController]
     public class KlienciController : ControllerBase
     {
+
         private SkniContext _context;
         public KlienciController(SkniContext context)
         {
             _context = context;
         }
+
+        /// <summary>
+        /// Metoda zwraca na temat klientow pizzeri
+        /// </summary>
 
         [HttpGet]
         public IActionResult GetKlienci()
